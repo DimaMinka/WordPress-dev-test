@@ -14,8 +14,9 @@ Simple test for modern web developers
 * name 
 * skill
 * github link
-- [ ] make fields output with blade
-- [ ] add custom style for new fields with scss
+- [ ] get via github api the user data by link in custom fields to json
+- [ ] make fields output with blade, click on name should be open user details from json
+- [ ] make popup for the details with scss/js
 - [ ] make the commit, pull request and merge to the master
 
 ## Code test
